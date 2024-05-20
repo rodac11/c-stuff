@@ -1,8 +1,7 @@
-# c-stuff: the repo where I throw my c junk.
+# My C Projects
 I'd like to get back into writing C, so I'm just throwing some basic stuff together to warm up to it.
 
-## What's in here
-So far:
+## What's in here? 
 ### csar.c (Caesar Cypher)
 A super basic project that encrypts with the [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) I'm using a right-shift of three (the one Julius Caesar used). Lowercase letters get shifted into lowercase, same with uppercase. Non-letter characters ignored! Csar reads a message.txt file and prints the encrypted text.
 
